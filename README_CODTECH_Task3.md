@@ -17,6 +17,7 @@ The goal of this task was to create an interactive Power BI dashboard to visuali
 | 📈 Line Chart         | COVID-19 total case trends over time by country         |
 | 📋 KPI Cards          | Total people vaccinated, fully vaccinated, total cases, and total deaths |
 | 📊 Bar Chart          | Top 10 countries with highest fully vaccinated population |
+| 🌍 Map Chart          | Displays total people vaccinated by country using geospatial bubbles |
 | 🔘 Slicer             | Filter dashboard data dynamically by country           |
 
 ---
@@ -35,6 +36,7 @@ All key visuals are included in the `/screenshots/` folder:
 - `line_chart.png`
 - `kpi_cards.png`
 - `bar_chart.png`
+- `map_chart.png`
 - `slicer.png`
 
 ---
@@ -46,6 +48,6 @@ All key visuals are included in the `/screenshots/` folder:
 ---
 
 ## 🙌 Submitted By
-**[Your Name]**  
+**Harsh**  
 CODTECH Data Analytics Internship  
 Task 3 – July 2025
